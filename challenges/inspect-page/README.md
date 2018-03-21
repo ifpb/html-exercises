@@ -2,7 +2,9 @@
 
 Uma página Web, como a do [IFPB](http://www.ifpb.edu.br/), possui muitos detalhes, e geralmente podem ser analisados parcialmente no próprio navegador.
 
-Isso se justifica pela própria natureza da Web, pois as páginas são estruturadas e publicadas em arquivos disponíveis na Internet por meio de servidores, e que podem ser copiados por navegadores. Portanto, podem também ser analisadas para se compreender a forma como os conteúdos são organizados. Mas como?
+Isso se justifica pela própria natureza da Web, pois as páginas são estruturadas e publicadas em arquivos disponíveis na Internet por meio de servidores, e que podem ser copiados por navegadores. 
+
+Inclusive, a maioria dos navegadores disponibilizam opções para facilitar o acesso e análise desses recursos, desta forma se torna possível analisar a forma como o site foi estruturado. Mas, como onde eu encontro usar essas opções?
 
 Um exemplo dessa análise, pode ser visto na *Figura 1* ao acessar uma página do [IFPB](http://www.ifpb.edu.br/) usando o Google Chrome, pois no item **Ver Código Fonte** do menu popup, é possível ver que outra janela é aberta com o código fonte utilizado para construir a página.
 
@@ -23,6 +25,8 @@ Perceba que tal ação evidencia na ferramenta, o código, e no site, o título.
 ```
 <h1 id="portal-title" class="corto">IFPB</h1>
 ```
+
+Veja que nesta ferramenta existe várias guias com informações específicas, por exemplo, a aba network permite detalhar os recursos solicitados para exibir a página. Então fica até mais fácil saber quantos arquivos no total foram solicitados.
 
 Por fim, outro recurso que pode ser atrelado ao navegador, para auxilar na análise do código fonte de uma página Web, seria o uso do **[Plugin Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)** que é disponível na maioria dos navegadores.
 
