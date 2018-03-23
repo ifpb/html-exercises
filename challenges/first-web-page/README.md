@@ -7,3 +7,4 @@ Ao saber que os alunos do IFPB estavam estudando HTML, o Sir Tim solicitou que a
 *Figura 1* - Primeira Página da Web
 ![Layout Curriculum](screen.png)
 
+> [Alternativa de resposta](site-response/)
