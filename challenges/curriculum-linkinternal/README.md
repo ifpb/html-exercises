@@ -1,5 +1,22 @@
 # Curriculum Vitae com Sumário
 
+## Objetivo
+---
+
+O objetivo desta atividade consiste em abordar os seguintes tópicos:
+
+- Reconstruir uma página Web Existente
+- Criar um texto com ênfase e destaque
+- Criar uma imagem
+- Criar um hyperlink interno e externo
+- Criar uma lista não ordenada
+- Criar uma lista de definição
+- Criar seções com linhas horizontais
+- Utilizar caracteres via entidade
+  
+## Descrição
+---
+
 O Elon Musk gostaria de criar seu Curriculum Vitae, a princípio ele forneceu, textualmente, algumas informações que estão disponíveis no arquivo [site](site.zip). Nele encontram-se sua foto e algumas descrições, que juntos deverão ser apresentados em um navegador Web, conforme ilustra a *Figura 1*.
 
 *Figura 1* - Layout do Currículum
@@ -29,3 +46,5 @@ No `index.html` há uma breve descrição/resumo sobre o Elom Musk, no entanto u
 Ainda conforme a *Figura 1*, no final das seções deve haver um hiperlink intitulado **topo** que direciona a navegação para o início do documento (`index.html`). Já com relação aos títulos dessas seções, devem possuir hyperlinks que recaiam para o início de sua própria seção.
 
 Por fim, inclua no final do documento uma informação de copyright, usando entidade do HTML, conforme ilusta a *Figura 1*.
+
+> [Alternativa de resposta](site-response/)
