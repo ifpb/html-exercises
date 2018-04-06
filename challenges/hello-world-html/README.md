@@ -45,3 +45,5 @@ Detalhe, para editar esse código pode-se usar:
   * vscode com algum plugin como o `LiveServer`.
 
 > [Alternativa de resposta](site-response/)
+
+<!-- TODO vscode, abrir folder, emmet, multipla edição -->
