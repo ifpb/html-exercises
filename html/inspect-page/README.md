@@ -17,9 +17,9 @@ Uma página Web, como a do [IFPB](http://www.ifpb.edu.br/), possui muitos detalh
 
 Isso se justifica pela própria natureza da Web, pois as páginas são estruturadas e publicadas em arquivos disponíveis na Internet por meio de servidores, e que podem ser copiados por navegadores. 
 
-Inclusive, a maioria dos navegadores disponibilizam opções para facilitar o acesso e análise desses recursos, desta forma se torna possível analisar a forma como o site foi estruturado. Mas, como onde eu encontro usar essas opções?
+Inclusive, a maioria dos navegadores disponibilizam opções para facilitar o acesso e análise desses recursos, desta forma se torna possível analisar a forma como o site foi estruturado. Mas, como e onde eu encontro usar essas opções?
 
-Um exemplo dessa análise, pode ser visto na *Figura 1* ao acessar uma página do [IFPB](http://www.ifpb.edu.br/) usando o Google Chrome, pois no item **** do menu popup, é possível ver que outra janela é aberta com o código fonte utilizado para construir a página.
+Um exemplo dessa análise, pode ser visto na *Figura 1* ao acessar uma página do [IFPB](http://www.ifpb.edu.br/) usando o Google Chrome, pois no item **Ver Código Fonte** do menu popup, é possível ver que outra janela é aberta com o código fonte utilizado para construir a página.
 
 *Figura 1* - Página do IFPB.
 ![Página do IFPB](screen-ifpb.png)
@@ -33,7 +33,7 @@ Mas essa não é a única opção, existe outra alternativa de analisar o códig
 
 Um modo bastante fácil de acessar essa ferramenta é através do menu popup, por exemplo, para saber como é a estrutura do HTML do título IFPB, visível na *Figura 2*, basta ativar o item **Inspecionar Elemento** menu popup, sob o título.
 
-Perceba que tal ação evidencia na ferramenta, o código, e no site, o título. O que nos permite concluir que a linha reponsável por exibir o título é:
+Perceba que tal ação evidencia na ferramenta, o código; e no site, o título. O que nos permite concluir que a linha responsável por exibir o título é:
 
 ```
 <h1 id="portal-title" class="corto">IFPB</h1>
@@ -43,9 +43,9 @@ Perceba que tal ação evidencia na ferramenta, o código, e no site, o título.
 
 Veja que nesta ferramenta existe várias guias com informações específicas, por exemplo, a aba network permite detalhar os recursos solicitados para exibir a página. Então fica até mais fácil saber quantos arquivos no total foram solicitados.
 
-Outro recurso que pode ser atrelado ao navegador, para auxilar na análise do código fonte de uma página Web, seria o uso do **[Plugin Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)** que é disponível na maioria dos navegadores.
+Outro recurso que pode ser atrelado ao navegador, para auxiliar na análise do código fonte de uma página Web, seria o uso do **[Plugin Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)** que é disponível na maioria dos navegadores.
 
-Com esse plugin é possível isolar a estrutura do estilo da página, além de interroper a execução das ações e animações de uma página, por exemplo, a *Figura 3* exibe a página do IFPB sem nenhum estilo.
+Com esse plugin é possível isolar a estrutura do estilo da página, além de interromper a execução das ações e animações de uma página, por exemplo, a *Figura 3* exibe a página do IFPB sem nenhum estilo.
 
 *Figura 3* - Plugin Web Developer.
 ![Plugin Web Developer](screen-plugin.png)
