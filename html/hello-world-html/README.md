@@ -36,8 +36,8 @@ Quanto ao conteúdo, tente compreender e escrever esse código, linha a linha, n
 
 A medida que for editando o arquivo HTML, tente visualizar o código gerado em algum navegador e veja se o resultado se assemalha ao da *Figura 1*.
 
-*Figura 1* - Layout da Primeira Página Web
-<img src="screen.png" alt="Primeira Página Web" style="border: 1px solid #000">
+*Figura 1* - Minha Primeira Página
+<img src="assets/screen.png" alt="Minha Primeira Página" style="border: 2px solid #000">
 
 Detalhe, para editar esse código pode-se usar:
   * O navegador de arquivo do Sistema Operacional;

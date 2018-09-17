@@ -35,7 +35,7 @@ site
 └── index.html
 ```
 
-*Figura 1* - Layout do Currículum
-![Layout Curriculum](screen.png)
+*Figura 1* - Página da disciplina
+<img src="assets/screen.png" alt="Página LM" style="border: 2px solid #000">
 
 > [Alternativa de resposta](site-response/)

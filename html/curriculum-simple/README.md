@@ -28,6 +28,6 @@ site
 ```
 
 *Figura 1* - Layout do Currículum
-![Layout Curriculum](screen.png)
+<img src="assets/screen-curriculum.png" alt="Layout Curriculum" style="border: 2px solid #000">
 
 > [Alternativa de resposta](site-response/)

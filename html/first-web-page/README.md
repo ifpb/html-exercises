@@ -17,6 +17,6 @@ Como a Web já completou mais de 20 anos, o Sir Timothy John Berners-Lee, quis a
 Ao saber que os alunos do IFPB estavam estudando HTML, o Sir Tim solicitou que a Primeira Página da Web fosse recriada com HTML 5, mas preservando a aparência original da *Figura 1*. A princípio ele forneceu, textualmente, algumas informações que estão disponíveis no arquivo [site.zip](site.zip).
 
 *Figura 1* - Primeira Página da Web
-![Layout Curriculum](screen.png)
+<img src="assets/screen.png" alt="First Web Page" style="border: 2px solid #000">
 
 > [Alternativa de resposta](site-response/)

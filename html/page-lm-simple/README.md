@@ -18,7 +18,7 @@ Digamos que o proforessor da disciplina esqueceu de fazer backup dos seus arquiv
 
 Portanto, o professor está pedindo ajuda aos alunos do IFPB para recriarem a página da disciplina, mas de modo que se preserve a organização original da *Figura 1*. Vale salientar que, textualmente, algumas informações estarão disponíveis no arquivo compactado [site.zip](site.zip).
 
-*Figura 1* - Layout do Currículum
-![Layout Curriculum](screen.png)
+*Figura 1* - Página da disciplina
+<img src="assets/screen.png" alt="Página LM" style="border: 2px solid #000">
 
 > [Alternativa de resposta](site-response/)
