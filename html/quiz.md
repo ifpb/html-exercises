@@ -53,6 +53,29 @@ Permitem que tags e entidades sejam exibidos como texto
 `<b>`
 `<meta>`
 
+[Ano: 2014 Banca: IBFC Órgão: TRE-AM Prova: Técnico Judiciário - Operação de Computador]
+## Por questões da segurança da informação, a maioria dos browsers hoje em dia suportam o protocolo de transferência de hipertexto seguro denominado:
+HTML
+HTTPS
+HTML5
+HDLC
+
+[Ano: 2018 Banca: FGV Órgão: MPE-AL Prova: Analista do Ministério Público - Administrador de Rede]
+## O HTML 5 introduziu diversos elementos semânticos, gráficos e de multimídia. Assinale o elemento que não é uma novidade nessa versão. 
+`<article>`
+`<div>`
+`<footer>`
+`<header>`
+`<section>`
+
+[Ano: 2018 Banca: IADES Órgão: ARCON-PA Prova: Assistente Técnico em Regulação de Serviços Públicos]
+## A ferramenta básica do desenvolvimento web é o HTML. Entre as tags dessa ferramenta, qual é a responsável por sublinhar um texto?
+`<a>`
+`<center>`
+`<b>`
+`<i>`
+`<u>`
+
 ## Qual item não possui a tag de fechamento?
 meta
 body
